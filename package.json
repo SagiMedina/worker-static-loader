@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Sagi Medina"
+  },
+  "dependencies": {
+    "loader-utils": "0.2.x"
+  },
+  "description": "worker loader module for webpack with static path",
+  "devDependencies": {},
+  "directories": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "sagimedina",
+      "email": "sagimedina@googlemail.com"
+    }
+  ],
+  "name": "worker-static-loader",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "webpack": ">=0.9 <2"
+  },
+  "scripts": {},
+  "version": "0.1.6"
+}

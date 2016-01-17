@@ -5,12 +5,15 @@ Forked from https://github.com/webpack/worker-loader
 Differences:
 This loader will add the path of your static files folder when loading the worker js file
 
-## Usage
+
+## Installation
 
 ```
 
 npm i worker-static-loader
 ```
+
+## Usage
 
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
 

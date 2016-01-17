@@ -7,6 +7,11 @@ This loader will add the path of your static files folder when loading the worke
 
 ## Usage
 
+```
+
+npm i worker-static-loader
+```
+
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
 
 Import the worker file:
